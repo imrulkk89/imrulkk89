@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Imrul Kais Khan.
 #### I am a Full Stack Engineer with Cloud and DevOps Expertise
-![I am a Full Stack Engineer with Cloud and DevOps Expertise](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Full Stack Engineer with Cloud and DevOps Expertise](https://raw.githubusercontent.com/imrulkk89/My_Career/main/Banner.jpeg)
 
 Hi, this is Imrul Kais Khan,  with more than 5 years of experience in software industries and 
 developing JavaScript Applications using Node.js, React.js, Vue.js including other sorts of modern technologies. 
